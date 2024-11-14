@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "406245321914",
+    "firebase_url": "https://esotilina-5dc1f-default-rtdb.firebaseio.com",
+    "project_id": "esotilina-5dc1f",
+    "storage_bucket": "esotilina-5dc1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406245321914:android:2623dac777f828c513e683",
+        "android_client_info": {
+          "package_name": "com.example.mapsmaroon5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ts_OCaf_T17cUunRUzYVb4hOwBUR1A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
